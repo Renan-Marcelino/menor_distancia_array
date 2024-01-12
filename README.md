@@ -12,3 +12,6 @@ A menor distância seria a combinação do número 5 do array 1 com o número 6 
 Instruções
 Use matrizes com tamanho maior ou igual a 10 números.
 De preferência, coloque o código em um arquivo único, para que seja possível executar online e coloque o link do site que executa. Ex: playcode.io/javascript
+
+LINK DO PROJETO:
+https://dotnetfiddle.net/EL9w0J

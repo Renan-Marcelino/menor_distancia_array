@@ -1,0 +1,14 @@
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.AssemblyInfoInputs.cache
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.AssemblyInfo.cs
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.csproj.CoreCompileInputs.cache
+C:\Users\Loja\Desktop\livro_de_ofertas.md\bin\Debug\net8.0\livro_de_ofertas.md.exe
+C:\Users\Loja\Desktop\livro_de_ofertas.md\bin\Debug\net8.0\livro_de_ofertas.md.deps.json
+C:\Users\Loja\Desktop\livro_de_ofertas.md\bin\Debug\net8.0\livro_de_ofertas.md.runtimeconfig.json
+C:\Users\Loja\Desktop\livro_de_ofertas.md\bin\Debug\net8.0\livro_de_ofertas.md.dll
+C:\Users\Loja\Desktop\livro_de_ofertas.md\bin\Debug\net8.0\livro_de_ofertas.md.pdb
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.dll
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\refint\livro_de_ofertas.md.dll
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.pdb
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\livro_de_ofertas.md.genruntimeconfig.cache
+C:\Users\Loja\Desktop\livro_de_ofertas.md\obj\Debug\net8.0\ref\livro_de_ofertas.md.dll
